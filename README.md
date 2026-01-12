@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24556667/README.md)
 # Student Management System
 ### Full-Stack Web Application for Placement Preparation
 
